@@ -1,0 +1,8 @@
+backend/target/
+frontend/coverage/
+frontend/reports/
+frontend/node_modules/
+.scannerwork/
+.env
+*.log
+*.zip

@@ -1,0 +1,9 @@
+{
+  "name": "selftest-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:ci": "node scripts/test-ci.js"
+  }
+}
